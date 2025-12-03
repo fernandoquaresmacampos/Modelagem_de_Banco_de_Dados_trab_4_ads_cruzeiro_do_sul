@@ -13,8 +13,8 @@ BANCO DE DADOS HOSPEDAPP
 
 Este Banco de Dados tem o objetivo de auxiliar de modo simples e seguro o gerenciamento de Hotel/pousada registrando pessoas, serviços, produtos, valores e toda a movimentação de venda e hospedagens.
 
-ARQUIVOS:
-hospedapp_tabelas.alq: Para a criação das tabelas.
+ARQUIVOS:<br>
+hospedapp_tabelas.sql: Para a criação das tabelas.
 hospedapp_dados.sql: Insere dados nas principais tabelas.
 hospedapp_manipula.sql: Altera e exclui alguns dados da tabela.
 
